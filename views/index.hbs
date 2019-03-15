@@ -54,7 +54,7 @@
 
         <h1 class="mb-0">{{data.firstName}} <span class="txt-{{data.pageTextColorTheme}}">{{data.lastName}}</span></h1>
         <div class="subheading mb-5">
-          {{data.dob}} · {{data.address.streetAddress}}, {{data.address.postNumber}} {{data.address.city}} · 
+          {{data.dob}} · {{data.address.streetAddress}}, {{data.address.postNumber}} {{data.address.city}}, {{data.address.country}} · 
           {{data.contactNumber}} · <a href="mailto:{{data.e-mail}}" class="a-{{data.pageLinkColorTheme}}">{{data.e-mail}}</a>
         </div>
         
@@ -193,7 +193,7 @@
           {{#each data.certificationsAndAwards}}
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              {{type}}: {{name}}  <p style="font-size: 0.7em">{{organizer}} - <i>({{completed}})</i> - {{date}} </p>
+              {{type}}: {{name}}  <p style="font-size: 0.7em">{{organizer}} - <i>{{completed}}</i> {{date}} </p>
             </li>
             
           {{/each}}

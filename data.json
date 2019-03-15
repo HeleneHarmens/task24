@@ -1,131 +1,236 @@
 {
-  "firstName": "Ola",
-  "lastName": "Normann",
-  "dob": "04.04.1996",
-  "e-mail": "ola.norman@gmail.com",
-  "contactNumber": "+47 98765432",
-  "picture":"tempProfile.jpg",
-  "pageNavColorTheme": "blue",
-  "pageTextColorTheme": "purple",
-  "pageLinkColorTheme": "blue",
+  "firstName": "Helene",
+  "lastName": "Harmens",
+  "dob": "16.08.1991",
+  "e-mail": "helene.harmens@gmail.com",
+  "contactNumber": "+47 48126991",
+  "picture":"ExperisAcademy_Helene.jpg",
+  "pageNavColorTheme": "purple",
+  "pageTextColorTheme": "blue",
+  "pageLinkColorTheme": "purple",
   "pageIconColorTheme": "blue",
 
   "address": {
-    "streetAddress": "Veiengaten 1A",
-    "postNumber": "0123",
+    "streetAddress": "Bjerregaardsgate 24 B",
+    "postNumber": "0172",
     "city": "Oslo",  
     "country": "Norway"
   },
 
-  "headline": "Ola is a fullstack Java developer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "headline": "Hi! I'm Helene Harmens from Oslo, Norway. I'm a technology enthusiast with experience in IT, 3D & VFX. Currently I'm learning to be a Fullstack Java developer through Experis Academy Norway, and before that I worked as a VFX Compositor at Storm Studios. ",
+  "summary":  "I'm now finishing Experis Academy Norway's program in Full-stack Java Deveopment, which provides extensive expertice in Java and Javascript, as well as relevant frameworks, methods, tools and libraries. I have a bachelor's degree in Information Technology, which has given me a solid IT competence in programming, project work, system development, internet technology, e-business, web development, information security, scrum, research methods, entrepreneurship, etc. I also have a master’s degree in Digital Effects and work experience with 3D and visual effects (VFX), which daily involved problem solving, collaboration, working under pressure, flexibility and deadlines. I have experience with leadership roles, marketing, administration and speaking in assemblies through a high level of involvement in projects and positions of trust. I've collaborated with great companies and organisations like Microsoft, NHO and the Norwegian Computer Society. I'm devoted and social, and love to work with other people. It is important for me to help others around me achieve their goals in addition to my own. I take personal pride in everything I do and like to add “the little extra”",
     
   "education":[
     {
-      "degree": "Master in Computer Science",
-      "level": "Master",
-      "institution": "Norwegian School of Information Technology",
-      "startDate": "January 2000",
-      "endDate": "December 2000",
-      "city": "Oslo",
-      "country": "Norway",
-      "information": "Infromatikk: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+      "degree": "Master in Digital Effects (VFX)",
+      "level": "Master (MA)",
+      "institution": "Bournemouth University",
+      "startDate": "September 2013",
+      "endDate": "September 2014",
+      "city": "Bournemouth",
+      "country": "England",
+      "information": "This master has provided strong theoretical and technical expertice in filmmaking techniques, green screen, MOCAP, computer graphic principles, the fusion of art and technology, personal research, and applied digital effects theory and practice. \nAwarded a master’s with “merit”."
     },
     {
-      "degree": "Bachelor in Computer Science",
-      "level": "Bachelor",
-      "institution": "UiO",
-      "startDate": "January 2000",
-      "endDate": "December 2000",
+      "degree": "Python for programmers",
+      "level": "Online course in Python",
+      "institution": "NTNU",
+      "startDate": "",
+      "endDate": "December 2010",
       "city": "Oslo",
       "country": "Norway",
-      "information": "Infromatikk: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+      "information": "The course included Python interpreter, numbers, strings, lists, control flow tools, functions, data structures, modules, inputs and outputs, errors, exceptions and classes."
+    },
+    {
+      "degree": "Bachelor in Information Technology (with specialization in 3D graphics)",
+      "level": "Bachelor (BSc)",
+      "institution": "Norwegian School of Information Technology (NITH)",
+      "startDate": "August 2010",
+      "endDate": "June 2013",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "IT Subjects in Java programming, databases, computer technology, project work, system development, internet technology, e-business, web development, information security, scrum, research methods, entrepreneurship, creative development projects, design project, research methods, etc. 3D subjects included architectural visualization, modeling, animation, lighting, optimization and structure, AR, 3D CAD, etc. She worked mainly in the software 3Ds Max, Mudbox and Unity."
+    },
+    {
+      "degree": "Design-lab 1",
+      "level": "Single course",
+      "institution": "Norwegian School of Information Technology (NITH)",
+      "startDate": "August 2009",
+      "endDate": "December 2009",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Visiting Student Program. University subject completed during the last year of Ullern Upper Secondary School."
+    },
+    {
+      "degree": "Media and Communication",
+      "level": "Higher Education Entrance Qualification",
+      "institution": "Ullern Upper Secondary School",
+      "startDate": "August 2007",
+      "endDate": "June 2010",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Learned narrative techniques in text, sound and image. About media influence, media history and journalism. To design messages, expressions and layouts. Use of form, color, light and sound as a tool. Common programme subjects average grade: 6 (A) Common core subjects average grade: 5 (B)"
     }
   ],
     
   "keyQualifications": "Java, Javascript, Python, UML, HTML, CSS, Git, IntelliJ, Eclipse, Apache Maven, Scrum, Jira, Trello, Spring Framework, Spring Boot, Bootstrap 4, REST, Microservices, jQuery, ReactJS, AngularJS, NodeJS, JDBC, Deployment, JDBC, JNLP, WGAG 2.0, TDD, DevOps, Kanban",
-  "otherQualifications": "3D, VFX, Photoshop",
+  "otherQualifications": "3D (3Ds Max, Maya), VFX (Nuke, Houdini), Photoshop, Premiere",
       
   "experience":[ 
     {
-      "role": "Worker",
-      "employer": "Disney",
+      "role": "Full-stack Java Developer with front end specialization",
+      "employer": "Experis Academy Norway",
       "type": "Work Experience",
-      "startDate": "January 2000",
-      "endDate": "December 2000",
+      "startDate": "February 2019",
+      "endDate": "Present",
       "city": "Oslo",
       "country": "Norway",
-      "information": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "information": "Accelerated learning program for 3 months with the goal of becoming Full-stack Java developer specializing in front end. Selected technologies and frameworks: Java, IntelliJ, Eclipse, UML, Git, Apache Maven, Scrum, Jira, Spring, SpringBoot, JDBC, Deployment, JNLP, REST, Microservices, Web Serves, HTML, CSS, Bootstrap 4, WGAG 2.0, JavaScript, jQuery, ReactJS, AngularJS, NodeJS, TDD, Continuous Integration, DevOps, Extreme programmering, Kanban, Progressiv Web Apps. Completes the certification 'Java SE 8 Programmer I' during this period."
     },
 
     {
-      "role": "Boss",
-      "employer": "Experis Academy",
+      "role": "VFX Compositor",
+      "employer": "Storm Studios",
       "type": "Work Experience",
-      "startDate": "January 2000",
-      "endDate": "December 2000",
+      "startDate": "January 2015",
+      "endDate": "January 2019",
       "city": "Oslo",
       "country": "Norway",
-      "information": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "information": "Integrated filmed and rendered elements from multiple sources to create final and lifelike illusions by finding the best and most economical solutions to reach the desired result. She has worked both on commercials and feature films such as “Black Panther” (2018), “the 12th Man” (2017), “Birkebeinerne” (2016) and “Pixels” (2015)."
+    },
+
+    {
+      "role": "Bartender",
+      "employer": "Underwater Pub",
+      "type": "Work Experience",
+      "startDate": "May 2012",
+      "endDate": "August 2013",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Work involved multi-tasking, serving customers in a friendly and helpful manner, working in a team, working under fast-paced conditions and attempting to limit problems and liability. Previous part-time jobs include working at a smoothie bar, cafe and restaurant."
     }
+
+    
   ],
       
   "otherEngagements":[
     {
-      "role": "Organizator",
-      "organization": "Experis Academy",
-      "type": "Voluntary",
-      "startDate": "January 2000",
-      "endDate": "December 2000",
-      "city": "oslo",
+      "role": "Role model for 'Girls and technology'",
+      "organization": "The Confederation of Norwegian Enterprise (NHO)",
+      "type": "Engagement",
+      "startDate": "",
+      "endDate": "October 2017",
+      "city": "Oslo",
       "country": "Norway",
-      "information": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "information": "Talked in front of several hundred girls in Oslo and Hamar to inform and motivate, with the aim to increase the proportion of women in technology education. "
+    },
+    {
+      "role": "Microsoft Student Partner",
+      "organization": "Microsoft Norway",
+      "type": "Engagement",
+      "startDate": "November 2011",
+      "endDate": "August 2013",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Being a student technology leader, shared knowledge among the academic community, arranged courses, gave presentations and lectures, and initiated projects among the students, through the worldwide Microsoft Student Partner educational programme."
+    },
+    {
+      "role": "Crew Manager",
+      "organization": "Norwegian Developers Conference (NDC)",
+      "type": "Engagement",
+      "startDate": "May 2013",
+      "endDate": "June 2013",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Managed the entire voluntary crew system at NDC, Norway’s largest conference dedicated to .NET and agile development."
+    },
+    {
+      "role": "Leader of the Student Organization “Microsoft Student Community NITH”",
+      "organization": "Norwegian School of Information Technology (NITH)",
+      "type": "Engagement",
+      "startDate": "November 2011",
+      "endDate": "August 2012",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Arranged school events and presentations, shared knowledge and inspiration, and helped students with their Microsoft products."
+    },
+    {
+      "role": "Deputy Leader of Student Organization “Women and IT”",
+      "organization": "Norwegian School of Information Technology (NITH)",
+      "type": "Engagement",
+      "startDate": "October 2011",
+      "endDate": "September 2012",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Worked in collaboration with the leader to elevate the IT girl community, as well as arranging events, both social events and events in cooperation with established businesses."
+    },
+    {
+      "role": "Deputy Leader/co-founder of networking group Ung IT",
+      "organization": "The Norwegian Computer Society (DND)",
+      "type": "Engagement",
+      "startDate": "August 2011",
+      "endDate": "January 2013",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Co-founded the networking group, acquired other board members, arranged exciting events with speakers and sponsors and managed the promotion and logistics of the events."
+    },
+    {
+      "role": "Representative for 3D graphics in the marketing team",
+      "organization": "Norwegian School of Information Technology (NITH)",
+      "type": "Engagement",
+      "startDate": "2010",
+      "endDate": "2012",
+      "city": "Oslo",
+      "country": "Norway",
+      "information": "Represented and promoted the IT bachelor and the 3D program for recruitment of new students and business communities."
     }
+    
   ],
     
   "certificationsAndAwards": [
     {
       "type": "Certification",
       "name": "Oracle Certified Associate, Java SE 8 Programmer I",
-      "completed": "Not yet completed",
+      "completed": "(Not yet completed)",
       "date": "April 2019",
       "organizer": "Glasspaper"
     },
     {
       "type": "Award",
-      "name": "Best Person Ever",
-      "completed": "Completed",
-      "date": "April 2019",
-      "organizer": "Experis Academy"
+      "name": "3rd in the Norwegian national competition «Årets IT Jente» (“IT Girl of the Year”)",
+      "completed": "",
+      "date": "2012",
+      "organizer": "Microsoft Norway & Universum"
+    },
+    {
+      "type": "Award",
+      "name": "“Brain of the Year Award”",
+      "completed": "",
+      "date": "2012",
+      "organizer": "Microsoft Norway & Universum"
     }
+    
   ],
   
     
   "languages":[
     {
-      "language": "Norsk",
-      "proficiency": "Good"
+      "language": "Norwegian",
+      "proficiency": "Mother tongue, fluently"
     },
     {
-      "language": "Engelsk",
-      "proficiency": "Good"
-    }
-  ],
-    
-  "references": [
-    {
-      "firstName": "Craig",
-      "lastName": "Marais",
-      "contactInformation": "email" 
+      "language": "English",
+      "proficiency": "Very well"
     }
   ],
 
+
   "developerProfiles": [
     { "name": "LinkedIn", "link": "https://www.linkedin.com/in/heleneharmens/", "icon":"fab fa-linkedin-in" },
-    { "name": "GitHub", "link": "https://github.com/michael040496", "icon":"fab fa-github" },
-    { "name": "Homepage", "link":"https://github.com/michael040496", "icon":"fab fa-ad" },
-    { "name": "Imdb", "link":"https://github.com/michael040496", "icon":"fab fa-imdb" },
-    { "name": "Vimeo", "link":"https://github.com/michael040496", "icon":"fab fa-vimeo" }
+    { "name": "GitHub", "link": "https://github.com/HeleneHarmens/", "icon":"fab fa-github" },
+    { "name": "Imdb", "link":"https://www.imdb.com/name/nm7794920/", "icon":"fab fa-imdb" },
+    { "name": "Vimeo", "link":"https://vimeo.com/heleneharmens", "icon":"fab fa-vimeo" },
+    { "name": "Homepage", "link":"http://www.heleneharmens.com/", "icon":"fab fa-ad" }
   ],  
 
       
@@ -133,11 +238,13 @@
     {"name": "Java", "icon": "fab fa-java"},
     {"name": "HTML5", "icon": "fab fa-html5"},
     {"name": "CSS3", "icon": "fab fa-css3-alt"},
+    {"name": "Python", "icon": "fab fa-python"},
     {"name": "Angular", "icon": "fab fa-angular"},
     {"name": "React", "icon": "fab fa-react"},
     {"name": "JavaScript", "icon": "fab fa-js"},
     {"name": "Node", "icon": "fab fa-node-js"},
-    {"name": "NPM", "icon": "fab fa-npm"}
+    {"name": "NPM", "icon": "fab fa-npm"},
+    {"name": "Adobe", "icon": "fab fa-adobe"}
   ]
     
 }
